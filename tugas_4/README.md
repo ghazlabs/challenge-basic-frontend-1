@@ -1,0 +1,1 @@
+Taruh source code dari [Tugas 4](https://www.frontendmentor.io/challenges/typing-speed-test) disini.
